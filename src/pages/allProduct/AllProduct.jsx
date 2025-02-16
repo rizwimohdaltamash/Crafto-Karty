@@ -106,7 +106,7 @@ const AllProduct = () => {
                           {title}
                         </h1>
 
-                        <div className="flex flex-row gap-x-8 md:gap-x-36 lg:gap-x-36">
+                        <div className="flex flex-row gap-x-6 md:gap-x-36 lg:gap-x-36">
                       <h1 className=" title-font text-md font-semibold text-gray-900 mb-3">
                         ₹ {price}    
                       </h1>
